@@ -11,7 +11,7 @@ forniti mediante un ingresso seriale da un bit, mentre le uscite del sistema
 forniscono tutti i bit della parola di memoria in parallelo. <br>
 I dettagli della specifica possono essere trovati [qui](https://github.com/Chri060/rl-2023-rampone-rossi/blob/main/requirements/specification.pdf). <br>
 
-## Documentazione
+## _Documentazione_
 La documentazione del progetto si trova nel seguente [file](https://github.com/Chri060/rl-2023-rampone-rossi/blob/main/deliverables/documentation.pdf). <br>
 Il codice in VHDL si trova [qui](https://github.com/Chri060/rl-2023-rampone-rossi/blob/main/vhdl.vhd). <br>
 I testbench utilizzati si trovano [qui](https://github.com/Chri060/rl-2023-rampone-rossi/tree/main/requirements/testbenches). <br>
