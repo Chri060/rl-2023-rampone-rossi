@@ -1,4 +1,4 @@
-# Progetto-di-reti-logiche-2023
+# Progetto di reti logiche 2023
 
 ## _Specifica_
 La specifica della prova finale di reti logiche 2023 
